@@ -1,4 +1,16 @@
-## RTI CDS Frontend Developer Exercise
+## To Run This App Locally
+
+1) Install NodeJS and npm https://nodejs.org/en/download/
+2) Clone the repository and open up a new terminal inside the folder
+3) In the terminal window, run the following command: `npm install && npm start`
+4) Open browser and navigate to [localhost:3000](localhost:3000)
+
+## App is Hosted Online at:
+
+https://frontend-exercise-kawabata.netlify.app/
+
+
+<!-- ## RTI CDS Frontend Developer Exercise
 
 Welcome to the RTI Center for Data Science front-end developer exercise! This exercise is here to get you acquainted with a small sample of what we do and for us to get acquainted with your skills. It should take no more than a few hours of your time.
 
@@ -46,4 +58,4 @@ It contains a dataset that has 48842 US Census records with the following fields
 - `sex`: an individual's sex
 - `over_50k`: a boolean variable representing whether the individual makes over $50,000/year. A value of 1 means that the person makes greater than $50,000/year and a value of 0 means that the person makes less than or equal to $50,000/year.
 - `over_50k_text`: Same as `over_50k`, but using "True" and "False".
-- `count`: the number 1. This may be useful in calculations.
+- `count`: the number 1. This may be useful in calculations. -->
