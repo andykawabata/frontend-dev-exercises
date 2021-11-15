@@ -1,4 +1,4 @@
-## To Run This App Locally
+## To Run This React App Locally
 
 1) Install NodeJS and npm https://nodejs.org/en/download/
 2) Clone the repository and open up a new terminal inside the folder
